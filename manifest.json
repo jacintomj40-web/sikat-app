@@ -1,0 +1,18 @@
+
+{
+  "name": "Sikat: Pinoy Entrepreneur Hub",
+  "short_name": "Sikat",
+  "description": "AI-powered business companion for Filipino entrepreneurs.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/590/590415.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
